@@ -49,7 +49,7 @@
 
 - **BS Computer Science**  
   COMSATS University Islamabad (2022–2026, 7th Semester)
-  - **Final Year Project:** [MealMate](https://github.com/meal-mate-devs/Meal-Mate) – AI-Based Recipe App
+  - **Final Year Project:** [MealMate](https://github.com/meal-mate-devs/Meal-Mate) – AI-Based Recipe and Fitness App
 
 ---
 
