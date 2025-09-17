@@ -70,16 +70,6 @@
 ### 📊 GitHub Stats & More
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanqasimcs&show_icons=true&theme=radical&cache_seconds=86400&include_all_commits=true&count_private=true" alt="usmanqasimcs's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanqasimcs&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanqasimcs&layout=compact&theme=radical&langs_count=6&cache_seconds=86400" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanqasimcs&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usmanqasimcs&theme=radical&utcOffset=5" alt="Most Productive Time" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanqasimcs&layout=compact&theme=radical&cache_seconds=86400&hide_border=true&langs_count=8" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanqasimcs&theme=radical&cache_seconds=86400" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usmanqasimcs&theme=radical&utcOffset=5&cache_seconds=86400" alt="Most Productive Time" />
