@@ -70,7 +70,13 @@
 ### 📊 GitHub Stats & More
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usmanqasimcs&show_icons=true&theme=radical" alt="usmanqasimcs's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanqasimcs&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanqasimcs&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanqasimcs&theme=radical" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usmanqasimcs&theme=radical&utcOffset=5" alt="Most Productive Time" />
 </p>
 
