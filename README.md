@@ -68,6 +68,7 @@
 ---
 
 ### 📊 GitHub Stats & More
+<img src="https://github-readme-stats.vercel.app/api?username=usmanqasimcs&show_icons=true&theme=radical&cache_seconds=86400" alt="usmanqasimcs's GitHub stats" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanqasimcs&layout=compact&theme=radical&cache_seconds=86400&hide_border=true&langs_count=8" alt="Top Languages" />
