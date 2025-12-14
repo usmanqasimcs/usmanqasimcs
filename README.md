@@ -1,6 +1,6 @@
 <!-- Hi there, I'm Muhammad Usman Qasim! 👋 -->
 <h1 align="center">Hi, I'm Muhammad Usman Qasim</h1>
-<h3 align="center">Junior Software Developer | AI/ML & Mobile App Development</h3>
+<h3 align="center">Software Developer | AI/ML & Mobile App Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/usmanqasimcs"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
