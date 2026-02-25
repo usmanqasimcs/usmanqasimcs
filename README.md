@@ -9,23 +9,22 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🏫 **Computer Science undergraduate** at COMSATS University Islamabad (7th Semester)
-- 🤖 **AI/ML enthusiast** with hands-on experience in regression, model building, and deploying ML pipelines
-- 📱 **Mobile app developer** skilled in React Native & Flutter, passionate about building user-centric solutions
-- 🛠️ **FastAPI** and **scikit-learn** practitioner for robust machine learning deployments
-- 🚀 **DevOps knowledge:** CI/CD, Docker, AWS, and automated testing for production-ready apps
-- 🌱 Always eager to learn new technologies and solve real-world problems
+-  **Computer Science undergraduate** at COMSATS University Islamabad (7th Semester)
+-  **Mobile app developer** skilled in React Native, passionate about building user-centric solutions
+-  **Backend developer** skilled in Node.js, Express.js and SQL & noSQL Databases, passionate about building robust backend solutions
+-  **FastAPI** and **scikit-learn** practitioner for robust machine learning deployments
+-  **DevOps knowledge:** CI/CD, Docker, AWS, and automated testing for production-ready apps
+-  Always eager to learn new technologies and solve real-world problems
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
-- **Languages:** Python, JavaScript (ES6+), Dart, Java, C++
-- **Mobile:** React Native, Flutter, Android Studio
+- **Languages:** Typescript, JavaScript (ES6+), Java, Python
+- **Mobile:** React Native, Android Studio, Xcode
 - **Backend:** Node.js, Express.js, FastAPI, REST APIs
-- **AI/ML:** scikit-learn, Pandas, NumPy, Jupyter, Matplotlib
 - **Databases:** Firebase Firestore, MongoDB, MySQL
 - **DevOps & Cloud:** Git, GitHub Actions, Docker, AWS EC2, Firebase
 - **Testing & Tools:** Postman, VS Code, Selenium, CI/CD
@@ -53,21 +52,21 @@
 
 ---
 
-### 🏅 Certifications & Achievements
+###  Certifications & Achievements
 
 - **CCNA** – Cisco NetAcad
 - **Python for Everybody** – Coursera
 
 ---
 
-### 🌐 Find Me Online
+###  Find Me Online
 
 - [LinkedIn](https://linkedin.com/in/usmanqasimcs)
 - [GitHub](https://github.com/usmanqasimcs)
 
 ---
 
-### 📊 GitHub Stats & More
+###  GitHub Stats & More
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanqasimcs&layout=compact&theme=radical&cache_seconds=86400&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -80,9 +79,9 @@
 <details>
   <summary>⚡ Fun Facts & More</summary>
   <ul>
-    <li>💡 I love building apps that solve real-life problems with AI & data!</li>
-    <li>☕ Chai fuels my code.</li>
-    <li>📚 Always ready to learn and collaborate.</li>
+    <li> I love building apps that solve real-life problems with AI & data!</li>
+    <li> Chai fuels my code.</li>
+    <li> Always ready to learn and collaborate.</li>
   </ul>
 </details>
 
