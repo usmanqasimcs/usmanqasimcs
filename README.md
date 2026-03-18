@@ -1,117 +1,119 @@
-<!-- Hi there, I'm Muhammad Usman Qasim! 👋 -->
-<h1 align="center">Hi, I'm Muhammad Usman Qasim</h1>
-<h3 align="center">React Native Developer @IZ Global Lhr | Cross-Platform Mobile App Development</h3>
+<h1 align="center">Muhammad Usman Qasim</h1>
+<h3 align="center">React Native Developer • Cross-Platform Mobile Applications</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/usmanqasimcs"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/usmanqasimcs"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/usmanqasimcs">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/usmanqasimcs">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-###  About Me
+## About Me
 
--  **Computer Science Graduate** from COMSATS University Islamabad (Islamabad Campus)
--  **Mobile app developer** skilled in React Native (CLI & Expo) passionate about building user-centric solutions
--  **Backend developer** skilled in Node.js, Express.js and SQL & noSQL Databases.
--  **FastAPI** and **scikit-learn** practitioner for robust machine learning deployments
--  **DevOps:** CI/CD, Docker, AWS, and automated testing for production-ready apps
--  Always eager to learn new technologies and solve real-world problems
+Computer Science graduate from **COMSATS University Islamabad** and a **React Native Developer** focused on building scalable, user-centric mobile applications.
 
----
+I specialize in **cross-platform mobile development**, backend integrations, and deploying intelligent systems powered by **machine learning APIs**.
 
-### 💼 Professional Experience
- - **React Native Developer - IZ Global Lahore** | Feb 2026 - Present
-    Cross Platform App Dev, Typescript, Expo, Figma into Pixel Perfect UI, Backend Integration, Internationalization, State Managemen (Redux, Context)
- 
- - **React Native Developer - WISE360 SOLUTIONS** | July 2024 – Sep 2025
-    Mobile Application Development, Expo, UI/UX Implementation, Backend Development, Code Quality
-
- - **Software Engineering Intern - Certura ISB** | July 2025 – Aug 2025
-    Collaboration with a team of 4 engineers to convert complex backend logic
-    into deployable ML APIs, Optimization of data preprocessing pipelines, Agile Development</li>
-
-### 🎓 Education
-
-- **BS Computer Science**  
-  COMSATS University Islamabad (2022–2026, Graduated)
-  - **Final Year Project:** [MealMate](https://github.com/meal-mate-devs/Meal-Mate) – AI-Based Recipe and Fitness App
+My work combines **clean UI implementation, scalable architecture, and production-ready deployment pipelines**.
 
 ---
 
-### 🛠️ Technical Skills
+## Professional Experience
 
-**Mobile Development:**
-- React Native (CLI & Expo), TypeScript, JavaScript (ES6+), HTML5/CSS3
-- Android Studio, Xcode
+**React Native Developer — IZ Global, Lahore**  
+*Feb 2026 – Present*
 
-**State Management & Navigation:**
-- Redux, Context API, React Navigation
-- React Router (for web integration)
+- Develop cross-platform mobile applications using **React Native, TypeScript, and Expo**
+- Translate **Figma designs into pixel-perfect mobile interfaces**
+- Implement **internationalization (i18n)** for multilingual applications
+- Integrate backend APIs and manage application state using **Redux & Context**
 
-**Backend & APIs:**
-- RESTful API Design, Node.js, Express.js, FastAPI
-- Offline Storage (AsyncStorage)
+**React Native Developer — Wise360 Solutions**  
+*July 2024 – Sep 2025*
 
-**Database:**
-- Firebase Firestore, MongoDB, MySQL/SQL
+- Built production mobile applications using **React Native and Expo**
+- Implemented responsive UI/UX with strong emphasis on usability
+- Developed backend features and integrated REST APIs
+- Maintained code quality through structured architecture and reviews
 
-**Tools & DevOps:**
-- Git/GitHub, GitHub Actions, JIRA (Agile workflows)
-- Docker, CI/CD Pipelines, AWS EC2
+**Software Engineering Intern — Certura, Islamabad**  
+*July 2025 – Aug 2025*
 
-**Testing & Security:**
-- Unit Testing, Auth0/JWT Authentication
-- Performance Profiling, Postman, Selenium
-
-**Additional Skills:**
-- Supervised Learning, Model Evaluation, OOP, DSA, Data Preprocessing
-- scikit-learn, Python
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [MealMate](https://github.com/meal-mate-devs/Meal-Mate) | **AI-powered recipe and fitness app** using pantry data & health profiles. Built full ML pipeline with Python, FastAPI, and React Native. | React Native, Firebase, Python, FastAPI, scikit-learn |
-| [Food and Nutrition Mobile App](https://github.com/usmanqasimcs/Food-and-Nutrition-Mobile-App) | Mobile app for tracking nutrition and healthy eating habits. | React Native, Firebase |
-| [AI-Detector](https://github.com/usmanqasimcs/AI-Detector) | Detects AI-generated content using ML models. | Python, scikit-learn, FastAPI |
-| [Machine Learning Internship Work](https://github.com/usmanqasimcs/Machine-Learing-Models-for-Internship) | Regression models, data visualization, and deployment during ML internship. | Python, Matplotlib, scikit-learn |
-| [Library DevOps3](https://github.com/usmanqasimcs/Library-DevOps3) | DevOps pipeline for library management system. | Docker, GitHub Actions, AWS |
+- Collaborated with engineers to convert complex ML pipelines into **deployable APIs**
+- Optimized **data preprocessing pipelines**
+- Worked within **Agile development workflows**
 
 ---
 
-###  Certifications & Achievements
+## Education
 
-- **CCNA** – Cisco NetAcad
-- **Python for Everybody** – Coursera
+**BS Computer Science**  
+COMSATS University Islamabad *(2022 – 2026)*
 
----
-
-###  Find Me Online
-
-- [LinkedIn](https://linkedin.com/in/usmanqasimcs)
-- [GitHub](https://github.com/usmanqasimcs)
+Final Year Project  
+**MealMate – AI Recipe & Fitness Application**  
+https://github.com/meal-mate-devs/Meal-Mate
 
 ---
 
-###  GitHub Stats & More
+## Technical Skills
+
+**Mobile Development**
+React Native (CLI & Expo) • TypeScript • JavaScript (ES6+)
+
+**Frontend & UI**
+HTML5 • CSS3 • React Navigation • Responsive UI Development
+
+**Backend & APIs**
+Node.js • Express.js • FastAPI • REST APIs
+
+**Databases**
+MongoDB • Firebase Firestore • MySQL
+
+**DevOps & Tools**
+Git • GitHub • Docker • CI/CD • GitHub Actions • AWS EC2 • JIRA
+
+**Machine Learning**
+Python • scikit-learn • Data Preprocessing • Model Evaluation
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech |
+|------|------|------|
+| **MealMate** | AI-powered recipe and fitness platform using pantry data and health profiles | React Native, Python, FastAPI, Firebase |
+| **Food & Nutrition App** | Mobile app for tracking nutrition and healthy eating habits | React Native, Firebase |
+| **AI Detector** | Detects AI-generated text using machine learning models | Python, scikit-learn |
+| **ML Internship Work** | Regression modeling, visualization, and deployment experiments | Python, Matplotlib |
+| **Library DevOps Pipeline** | CI/CD pipeline for a library management system | Docker, GitHub Actions, AWS |
+
+---
+
+## Certifications
+
+- **CCNA** — Cisco Networking Academy  
+- **Python for Everybody** — Coursera
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanqasimcs&layout=compact&theme=radical&cache_seconds=86400&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanqasimcs&theme=radical&cache_seconds=86400" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usmanqasimcs&theme=radical&utcOffset=5&cache_seconds=86400" alt="Most Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanqasimcs&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
 <details>
-  <summary>⚡ Fun Facts & More</summary>
-  <ul>
-    <li> I love building apps that solve real-life problems with AI & data!</li>
-    <li> Chai fuels my code.</li>
-    <li> Always ready to learn and collaborate.</li>
-  </ul>
-</details>
+<summary>More About Me</summary>
 
----
+- Interested in building **AI-powered mobile applications**
+- Passionate about **clean architecture and scalable systems**
+- Always learning and exploring new technologies
+
+</details>
