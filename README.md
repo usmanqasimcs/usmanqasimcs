@@ -1,6 +1,6 @@
 <!-- Hi there, I'm Muhammad Usman Qasim! 👋 -->
 <h1 align="center">Hi, I'm Muhammad Usman Qasim</h1>
-<h3 align="center">React Native Specialist | Cross-Platform Mobile App Development</h3>
+<h3 align="center">React Native Developer @IZ Global Lhr | Cross-Platform Mobile App Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/usmanqasimcs"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -11,11 +11,11 @@
 
 ###  About Me
 
--  **Computer Science undergraduate** at COMSATS University Islamabad (7th Semester)
+-  **Computer Science Graduate** from COMSATS University Islamabad (Islamabad Campus)
 -  **Mobile app developer** skilled in React Native, passionate about building user-centric solutions
 -  **Backend developer** skilled in Node.js, Express.js and SQL & noSQL Databases, passionate about building robust backend solutions
 -  **FastAPI** and **scikit-learn** practitioner for robust machine learning deployments
--  **DevOps knowledge:** CI/CD, Docker, AWS, and automated testing for production-ready apps
+-  **DevOps:** CI/CD, Docker, AWS, and automated testing for production-ready apps
 -  Always eager to learn new technologies and solve real-world problems
 
 ---
@@ -44,10 +44,21 @@
 
 ---
 
+### 💼 Professional Experience
+ - **React Native Developer - IZ Global Lahore **| Feb 2026 - Present
+  - Cross Platform App Dev, Typescript, Expo, Figma into Pixel Perfect UI, Backend Integration, Internationalization, State Managemen (Redux, Context)
+ 
+ - **React Native Developer - WISE360 SOLUTIONS **| July 2024 – Sep 2025
+  - Mobile Application Development, Expo, UI/UX Implementation, Backend Development, Code Quality
+
+ - **Software Engineering Intern - Certura ISB **| | July 2025 – Aug 2025
+  - Collaboration with a team of 4 engineers to convert complex backend logic
+    into deployable ML APIs, Optimization of data preprocessing pipelines, Agile Development</li>
+
 ### 🎓 Education
 
 - **BS Computer Science**  
-  COMSATS University Islamabad (2022–2026, 7th Semester)
+  COMSATS University Islamabad (2022–2026, Graduated)
   - **Final Year Project:** [MealMate](https://github.com/meal-mate-devs/Meal-Mate) – AI-Based Recipe and Fitness App
 
 ---
