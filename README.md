@@ -84,13 +84,13 @@ Python • scikit-learn • Data Preprocessing • Model Evaluation
 
 ## Featured Projects
 
-| Project | Description | Tech |
-|------|------|------|
-| **MealMate** | AI-powered recipe and fitness platform using pantry data and health profiles | React Native, Python, FastAPI, Firebase |
-| **Food & Nutrition App** | Mobile app for tracking nutrition and healthy eating habits | React Native, Firebase |
-| **AI Detector** | Detects AI-generated text using machine learning models | Python, scikit-learn |
-| **ML Internship Work** | Regression modeling, visualization, and deployment experiments | Python, Matplotlib |
-| **Library DevOps Pipeline** | CI/CD pipeline for a library management system | Docker, GitHub Actions, AWS |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[MealMate](https://github.com/meal-mate-devs/Meal-Mate)** | AI-powered recipe & fitness app using pantry data and health profiles. Includes an ML pipeline with Python and FastAPI integrated with React Native. | React Native, Firebase, Python, FastAPI, scikit-learn |
+| **[Food & Nutrition Mobile App](https://github.com/usmanqasimcs/Food-and-Nutrition-Mobile-App)** | Mobile application for tracking nutrition intake and promoting healthy eating habits. | React Native, Firebase |
+| **[AI Detector](https://github.com/usmanqasimcs/AI-Detector)** | Machine learning system that detects AI-generated content using trained models. | Python, scikit-learn, FastAPI |
+| **[Machine Learning Internship Work](https://github.com/usmanqasimcs/Machine-Learing-Models-for-Internship)** | Collection of regression models, visualizations, and ML experiments developed during internship. | Python, Matplotlib, scikit-learn |
+| **[Library DevOps Pipeline](https://github.com/usmanqasimcs/Library-DevOps3)** | DevOps pipeline for a library management system with CI/CD automation. | Docker, GitHub Actions, AWS |
 
 ---
 
