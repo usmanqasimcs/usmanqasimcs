@@ -20,6 +20,25 @@
 
 ---
 
+### 💼 Professional Experience
+ - **React Native Developer - IZ Global Lahore** | Feb 2026 - Present
+    Cross Platform App Dev, Typescript, Expo, Figma into Pixel Perfect UI, Backend Integration, Internationalization, State Managemen (Redux, Context)
+ 
+ - **React Native Developer - WISE360 SOLUTIONS** | July 2024 – Sep 2025
+    Mobile Application Development, Expo, UI/UX Implementation, Backend Development, Code Quality
+
+ - **Software Engineering Intern - Certura ISB** | July 2025 – Aug 2025
+    Collaboration with a team of 4 engineers to convert complex backend logic
+    into deployable ML APIs, Optimization of data preprocessing pipelines, Agile Development</li>
+
+### 🎓 Education
+
+- **BS Computer Science**  
+  COMSATS University Islamabad (2022–2026, Graduated)
+  - **Final Year Project:** [MealMate](https://github.com/meal-mate-devs/Meal-Mate) – AI-Based Recipe and Fitness App
+
+---
+
 ### 🛠️ Technical Skills
 
 **Mobile Development:**
@@ -59,25 +78,6 @@
 | [AI-Detector](https://github.com/usmanqasimcs/AI-Detector) | Detects AI-generated content using ML models. | Python, scikit-learn, FastAPI |
 | [Machine Learning Internship Work](https://github.com/usmanqasimcs/Machine-Learing-Models-for-Internship) | Regression models, data visualization, and deployment during ML internship. | Python, Matplotlib, scikit-learn |
 | [Library DevOps3](https://github.com/usmanqasimcs/Library-DevOps3) | DevOps pipeline for library management system. | Docker, GitHub Actions, AWS |
-
----
-
-### 💼 Professional Experience
- - **React Native Developer - IZ Global Lahore** | Feb 2026 - Present
-    Cross Platform App Dev, Typescript, Expo, Figma into Pixel Perfect UI, Backend Integration, Internationalization, State Managemen (Redux, Context)
- 
- - **React Native Developer - WISE360 SOLUTIONS** | July 2024 – Sep 2025
-    Mobile Application Development, Expo, UI/UX Implementation, Backend Development, Code Quality
-
- - **Software Engineering Intern - Certura ISB** | July 2025 – Aug 2025
-    Collaboration with a team of 4 engineers to convert complex backend logic
-    into deployable ML APIs, Optimization of data preprocessing pipelines, Agile Development</li>
-
-### 🎓 Education
-
-- **BS Computer Science**  
-  COMSATS University Islamabad (2022–2026, Graduated)
-  - **Final Year Project:** [MealMate](https://github.com/meal-mate-devs/Meal-Mate) – AI-Based Recipe and Fitness App
 
 ---
 
