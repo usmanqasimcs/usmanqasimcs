@@ -1,103 +1,28 @@
-<!-- Hi there, I'm Muhammad Usman Qasim! 👋 -->
-<h1 align="center">Hi, I'm Muhammad Usman Qasim</h1>
-<h3 align="center">React Native Developer @IZ Global Lhr | Cross-Platform Mobile App Development</h3>
+### 🛠️ Technical Skills
 
-<p align="center">
-  <a href="https://linkedin.com/in/usmanqasimcs"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/usmanqasimcs"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+**Mobile Development:**
+- React Native (CLI & Expo), TypeScript, JavaScript (ES6+), HTML5/CSS3
+- Android Studio, Xcode
 
----
+**State Management & Navigation:**
+- Redux, Context API, React Navigation
+- React Router (for web integration)
 
-###  About Me
+**Backend & APIs:**
+- RESTful API Design, Node.js, Express.js, FastAPI
+- Offline Storage (AsyncStorage)
 
--  **Computer Science Graduate** from COMSATS University Islamabad (Islamabad Campus)
--  **Mobile app developer** skilled in React Native, passionate about building user-centric solutions
--  **Backend developer** skilled in Node.js, Express.js and SQL & noSQL Databases, passionate about building robust backend solutions
--  **FastAPI** and **scikit-learn** practitioner for robust machine learning deployments
--  **DevOps:** CI/CD, Docker, AWS, and automated testing for production-ready apps
--  Always eager to learn new technologies and solve real-world problems
+**Database:**
+- Firebase Firestore, MongoDB, MySQL/SQL
 
----
+**Tools & DevOps:**
+- Git/GitHub, GitHub Actions, JIRA (Agile workflows)
+- Docker, CI/CD Pipelines, AWS EC2
 
-###  Technical Skills
+**Testing & Security:**
+- Unit Testing, Auth0/JWT Authentication
+- Performance Profiling, Postman, Selenium
 
-- **Languages:** Typescript, JavaScript (ES6+), Java, Python
-- **Mobile:** React Native, Android Studio, Xcode
-- **Backend:** Node.js, Express.js, FastAPI, REST APIs
-- **Databases:** Firebase Firestore, MongoDB, MySQL
-- **DevOps & Cloud:** Git, GitHub Actions, Docker, AWS EC2, Firebase
-- **Testing & Tools:** Postman, VS Code, Selenium, CI/CD
-- **Core Concepts:** Supervised Learning, Model Evaluation, OOP, DSA, Data Preprocessing
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [MealMate](https://github.com/meal-mate-devs/Meal-Mate) | **AI-powered recipe and fitness app** using pantry data & health profiles. Built full ML pipeline with Python, FastAPI, and React Native. | React Native, Firebase, Python, FastAPI, scikit-learn |
-| [Food and Nutrition Mobile App](https://github.com/usmanqasimcs/Food-and-Nutrition-Mobile-App) | Mobile app for tracking nutrition and healthy eating habits. | React Native, Firebase |
-| [AI-Detector](https://github.com/usmanqasimcs/AI-Detector) | Detects AI-generated content using ML models. | Python, scikit-learn, FastAPI |
-| [Machine Learning Internship Work](https://github.com/usmanqasimcs/Machine-Learing-Models-for-Internship) | Regression models, data visualization, and deployment during ML internship. | Python, Matplotlib, scikit-learn |
-| [Library DevOps3](https://github.com/usmanqasimcs/Library-DevOps3) | DevOps pipeline for library management system. | Docker, GitHub Actions, AWS |
-
----
-
-### 💼 Professional Experience
- - **React Native Developer - IZ Global Lahore** | Feb 2026 - Present
-    Cross Platform App Dev, Typescript, Expo, Figma into Pixel Perfect UI, Backend Integration, Internationalization, State Managemen (Redux, Context)
- 
- - **React Native Developer - WISE360 SOLUTIONS** | July 2024 – Sep 2025
-    Mobile Application Development, Expo, UI/UX Implementation, Backend Development, Code Quality
-
- - **Software Engineering Intern - Certura ISB** | July 2025 – Aug 2025
-    Collaboration with a team of 4 engineers to convert complex backend logic
-    into deployable ML APIs, Optimization of data preprocessing pipelines, Agile Development</li>
-
-### 🎓 Education
-
-- **BS Computer Science**  
-  COMSATS University Islamabad (2022–2026, Graduated)
-  - **Final Year Project:** [MealMate](https://github.com/meal-mate-devs/Meal-Mate) – AI-Based Recipe and Fitness App
-
----
-
-###  Certifications & Achievements
-
-- **CCNA** – Cisco NetAcad
-- **Python for Everybody** – Coursera
-
----
-
-###  Find Me Online
-
-- [LinkedIn](https://linkedin.com/in/usmanqasimcs)
-- [GitHub](https://github.com/usmanqasimcs)
-
----
-
-###  GitHub Stats & More
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanqasimcs&layout=compact&theme=radical&cache_seconds=86400&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanqasimcs&theme=radical&cache_seconds=86400" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usmanqasimcs&theme=radical&utcOffset=5&cache_seconds=86400" alt="Most Productive Time" />
-</p>
-
----
-
-<details>
-  <summary>⚡ Fun Facts & More</summary>
-  <ul>
-    <li> I love building apps that solve real-life problems with AI & data!</li>
-    <li> Chai fuels my code.</li>
-    <li> Always ready to learn and collaborate.</li>
-  </ul>
-</details>
-
----
-
-<!--
-*Open to internship and entry-level opportunities in AI/ML & App Development!*
--->
+**Additional Skills:**
+- Supervised Learning, Model Evaluation, OOP, DSA, Data Preprocessing
+- scikit-learn, Python
