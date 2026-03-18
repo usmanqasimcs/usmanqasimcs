@@ -12,8 +12,8 @@
 ###  About Me
 
 -  **Computer Science Graduate** from COMSATS University Islamabad (Islamabad Campus)
--  **Mobile app developer** skilled in React Native, passionate about building user-centric solutions
--  **Backend developer** skilled in Node.js, Express.js and SQL & noSQL Databases, passionate about building robust backend solutions
+-  **Mobile app developer** skilled in React Native (CLI & Expo) passionate about building user-centric solutions
+-  **Backend developer** skilled in Node.js, Express.js and SQL & noSQL Databases.
 -  **FastAPI** and **scikit-learn** practitioner for robust machine learning deployments
 -  **DevOps:** CI/CD, Docker, AWS, and automated testing for production-ready apps
 -  Always eager to learn new technologies and solve real-world problems
