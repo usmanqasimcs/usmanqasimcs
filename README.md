@@ -46,13 +46,13 @@
 
 ### 💼 Professional Experience
  - **React Native Developer - IZ Global Lahore** | Feb 2026 - Present
-  - Cross Platform App Dev, Typescript, Expo, Figma into Pixel Perfect UI, Backend Integration, Internationalization, State Managemen (Redux, Context)
+    Cross Platform App Dev, Typescript, Expo, Figma into Pixel Perfect UI, Backend Integration, Internationalization, State Managemen (Redux, Context)
  
  - **React Native Developer - WISE360 SOLUTIONS** | July 2024 – Sep 2025
-  - Mobile Application Development, Expo, UI/UX Implementation, Backend Development, Code Quality
+    Mobile Application Development, Expo, UI/UX Implementation, Backend Development, Code Quality
 
  - **Software Engineering Intern - Certura ISB** | July 2025 – Aug 2025
-  - Collaboration with a team of 4 engineers to convert complex backend logic
+    Collaboration with a team of 4 engineers to convert complex backend logic
     into deployable ML APIs, Optimization of data preprocessing pipelines, Agile Development</li>
 
 ### 🎓 Education
