@@ -52,33 +52,33 @@ My work combines **clean UI implementation, scalable architecture, and productio
 ## Education
 
 **BS Computer Science**  
-COMSATS University Islamabad *(2022 – 2026)*
+  COMSATS University Islamabad *(2022 – 2026)*
 
 Final Year Project  
 **MealMate – AI Recipe & Fitness Application**  
-https://github.com/meal-mate-devs/Meal-Mate
+  https://github.com/meal-mate-devs/Meal-Mate
 
 ---
 
 ## Technical Skills
 
-**Mobile Development**
-React Native (CLI & Expo) • TypeScript • JavaScript (ES6+)
+**Mobile Development** 
+  React Native (CLI & Expo) • TypeScript • JavaScript (ES6+)
 
-**Frontend & UI**
-HTML5 • CSS3 • React Navigation • Responsive UI Development
+**Frontend & UI** 
+  HTML5 • CSS3 • React Navigation • Responsive UI Development
 
-**Backend & APIs**
-Node.js • Express.js • FastAPI • REST APIs
+**Backend & APIs** 
+  Node.js • Express.js • FastAPI • REST APIs
 
-**Databases**
-MongoDB • Firebase Firestore • MySQL
+**Databases** 
+  MongoDB • Firebase Firestore • MySQL
 
-**DevOps & Tools**
-Git • GitHub • Docker • CI/CD • GitHub Actions • AWS EC2 • JIRA
+**DevOps & Tools**  
+  Git • GitHub • Docker • CI/CD • GitHub Actions • AWS EC2 • JIRA
 
-**Machine Learning**
-Python • scikit-learn • Data Preprocessing • Model Evaluation
+**Machine Learning** 
+  Python • scikit-learn • Data Preprocessing • Model Evaluation
 
 ---
 
