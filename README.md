@@ -61,23 +61,17 @@ My work combines **clean UI implementation, scalable architecture, and productio
 
 ## Technical Skills
 
-**Mobile Development**  
-  React Native (CLI & Expo) • TypeScript • JavaScript (ES6+)
+**Mobile Development** : React Native (CLI & Expo) • TypeScript • JavaScript (ES6+)
 
-**Frontend & UI**  
-  HTML5 • CSS3 • React Navigation • Responsive UI Development
+**Frontend & UI** : HTML5 • CSS3 • React Navigation • Responsive UI Development
 
-**Backend & APIs**  
-  Node.js • Express.js • FastAPI • REST APIs
+**Backend & APIs** : Node.js • Express.js • FastAPI • REST APIs
 
-**Databases**  
-  MongoDB • Firebase Firestore • MySQL
+**Databases** : MongoDB • Firebase Firestore • MySQL
 
-**DevOps & Tools**  
-  Git • GitHub • Docker • CI/CD • GitHub Actions • AWS EC2 • JIRA
+**DevOps & Tools** : Git • GitHub • Docker • CI/CD • GitHub Actions • AWS EC2 • JIRA
 
-**Machine Learning**  
-  Python • scikit-learn • Data Preprocessing • Model Evaluation
+**Machine Learning** : Python • scikit-learn • Data Preprocessing • Model Evaluation
   
 ---
 
